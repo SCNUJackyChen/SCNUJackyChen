@@ -43,7 +43,7 @@ with open('README.md', 'w', encoding='utf-8') as f:
         f.write('- {} [{}]({})\n'.format(published, text, url))
 
     f.write('''
-[>>> More blog posts](https://netcan.github.io/archives/)
+[>>> More blog posts](https://jackyc.cn/)
 
 
 ## Statistics

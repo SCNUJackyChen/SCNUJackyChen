@@ -19,7 +19,7 @@
 - 2021-05-30 [LC 周赛第243场](https://scnujackychen.github.io/2021/05/30/LC-weekly-contest-243/)
 - 2021-05-30 [LC 双周赛第53场](https://scnujackychen.github.io/2021/05/30/LC-biweekly-contest-53/)
 
-[>>> More blog posts](https://netcan.github.io/archives/)
+[>>> More blog posts](https://jackyc.cn/)
 
 
 ## Statistics
