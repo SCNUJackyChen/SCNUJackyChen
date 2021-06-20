@@ -9,16 +9,14 @@ nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with open('README.md', 'w', encoding='utf-8') as f:
     f.write(r'''
 ```
-
-   ___               _               _____ 
-  |_  |             | |             /  __ \
-    | |  __ _   ___ | | __ _   _    | /  \/
-    | | / _` | / __|| |/ /| | | |   | |    
-/\__/ /| (_| || (__ |   < | |_| | _ | \__/\
-\____/  \__,_| \___||_|\_\ \__, |(_) \____/
-                            __/ |          
-                           |___/           
-
+                                          ___               _              _____ 
+                                         |_  |             | |            /  __ \
+                                           | |  __ _   ___ | | __ _   _   | /  \/
+                                           | | / _` | / __|| |/ /| | | |  | |    
+                                       /\__/ /| (_| || (__ |   < | |_| | _| \__/\
+                                       \____/  \__,_| \___||_|\_\ \__, |(_)\____/
+                                                                   __/ |         
+                                                                  |___/          
 ```
 ''')
 
@@ -32,7 +30,7 @@ with open('README.md', 'w', encoding='utf-8') as f:
     f.write(r'''
 ## Latest blog posts
 ''')
-    for entry in root.findall('nsfeed:entry', nsfeed)[:5]:
+    for entry in root.findall('nsfeed:entry', nsfeed)[:10]:
         text = entry.find('nsfeed:title', nsfeed).text
         # print(text)
         url = entry.find('nsfeed:link', nsfeed).attrib['href']
