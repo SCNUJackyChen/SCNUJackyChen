@@ -11,6 +11,7 @@
 ```
 
 ## Latest blog posts
+- 2021-06-21 [完美矩阵](https://scnujackychen.github.io/2021/06/22/perfect-matrix/)
 - 2021-06-20 [LC 周赛第246场](https://scnujackychen.github.io/2021/06/20/LC-weekly-contest-246/)
 - 2021-06-13 [LC 周赛第245场](https://scnujackychen.github.io/2021/06/13/LC-weekly-contest-245/)
 - 2021-06-13 [LC 双周赛第54场](https://scnujackychen.github.io/2021/06/13/LC-biweekly-contest-54/)
@@ -20,7 +21,6 @@
 - 2021-05-23 [LC 周赛第242场](https://scnujackychen.github.io/2021/05/23/LC-weekly-contest-242/)
 - 2021-05-17 [Trie树](https://scnujackychen.github.io/2021/05/17/trie/)
 - 2021-05-16 [LC 周赛第241场](https://scnujackychen.github.io/2021/05/16/LC-weekly-contest-241/)
-- 2021-05-16 [LC 双周赛第52场](https://scnujackychen.github.io/2021/05/16/LC-biweekly-contest-52/)
 
 [>>> More blog posts](https://jackyc.cn/)
 
