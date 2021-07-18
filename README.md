@@ -11,6 +11,7 @@
 ```
 
 ## Latest blog posts
+- 2021-07-17 [LC 双周赛第56场](https://scnujackychen.github.io/2021/07/18/LC-biweekly-contest-56/)
 - 2021-07-04 [LC 周赛第248场](https://scnujackychen.github.io/2021/07/04/LC-weekly-contest-248/)
 - 2021-07-01 [LC 周赛第247场](https://scnujackychen.github.io/2021/07/01/LC-weekly-contest-247/)
 - 2021-07-01 [LC 双周赛第55场](https://scnujackychen.github.io/2021/07/01/LC-biweekly-contest-55/)
@@ -20,7 +21,6 @@
 - 2021-06-13 [LC 双周赛第54场](https://scnujackychen.github.io/2021/06/13/LC-biweekly-contest-54/)
 - 2021-06-06 [LC 周赛第244场](https://scnujackychen.github.io/2021/06/06/LC-weekly-contest-244/)
 - 2021-05-30 [LC 周赛第243场](https://scnujackychen.github.io/2021/05/30/LC-weekly-contest-243/)
-- 2021-05-30 [LC 双周赛第53场](https://scnujackychen.github.io/2021/05/30/LC-biweekly-contest-53/)
 
 [>>> More blog posts](https://jackyc.cn/)
 
