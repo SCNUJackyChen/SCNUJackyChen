@@ -11,6 +11,8 @@
 ```
 
 ## Latest blog posts
+- 2021-11-26 [Backpropogation Through Time](https://scnujackychen.github.io/2021/11/26/BPTT/)
+- 2021-11-04 [YOLOv5 Training Using Custom Dataset](https://scnujackychen.github.io/2021/11/04/YOLO5/)
 - 2021-10-11 [LC weekly contest 262](https://scnujackychen.github.io/2021/10/11/LC-weekly-contest-262/)
 - 2021-09-06 [LC 双周赛第60场](https://scnujackychen.github.io/2021/09/06/LC-biweekly-contest-60/)
 - 2021-08-24 [LC 周赛第255场](https://scnujackychen.github.io/2021/08/24/LC-weekly-contest-255/)
@@ -18,8 +20,6 @@
 - 2021-08-17 [PCA](https://scnujackychen.github.io/2021/08/17/PCA/)
 - 2021-08-15 [LC 周赛第254场](https://scnujackychen.github.io/2021/08/15/LC-weekly-contest-254/)
 - 2021-08-01 [LC 周赛第252场](https://scnujackychen.github.io/2021/08/01/LC-weekly-contest-252/)
-- 2021-07-25 [LC 周赛第251场](https://scnujackychen.github.io/2021/07/25/LC-weekly-contest-251/)
-- 2021-07-25 [LC 双周赛第57场](https://scnujackychen.github.io/2021/07/25/LC-biweekly-contest-57/)
 
 [>>> More blog posts](https://jackyc.cn/)
 
