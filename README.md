@@ -11,6 +11,7 @@
 ```
 
 ## Latest blog posts
+- 2022-02-02 [LC weekly contest 278](https://scnujackychen.github.io/2022/02/02/LC-weekly-contest-278/)
 - 2022-01-23 [LC biweekly contest 70](https://scnujackychen.github.io/2022/01/23/LC-biweekly-contest-70/)
 - 2021-12-19 [LC weekly contest 272](https://scnujackychen.github.io/2021/12/19/LC-weekly-contest-272/)
 - 2021-12-12 [LC weekly contest 271](https://scnujackychen.github.io/2021/12/12/LC-weekly-contest-271/)
@@ -20,7 +21,6 @@
 - 2021-11-28 [LC biweekly contest 66](https://scnujackychen.github.io/2021/11/28/LC-biweekly-contest-66/)
 - 2021-11-28 [ACWing weekly contest 27](https://scnujackychen.github.io/2021/11/28/ACWing-weekly-contest-27/)
 - 2021-11-26 [Backpropagation Through Time](https://scnujackychen.github.io/2021/11/26/BPTT/)
-- 2021-11-04 [YOLOv5 Training Using Custom Dataset](https://scnujackychen.github.io/2021/11/04/YOLO5/)
 
 [>>> More blog posts](https://jackyc.cn/)
 
