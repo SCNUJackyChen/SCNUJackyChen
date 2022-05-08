@@ -11,6 +11,7 @@
 ```
 
 ## Latest blog posts
+- 2022-05-08 [LC weekly contest 292](https://scnujackychen.github.io/2022/05/08/LC-weekly-contest-292/)
 - 2022-02-09 [LC weekly contest 279](https://scnujackychen.github.io/2022/02/09/LC-weekly-contest-279/)
 - 2022-02-08 [LC biweekly contest 71](https://scnujackychen.github.io/2022/02/08/LC-biweekly-contest-71/)
 - 2022-02-02 [LC weekly contest 278](https://scnujackychen.github.io/2022/02/02/LC-weekly-contest-278/)
@@ -20,7 +21,6 @@
 - 2021-12-12 [ACWing weekly contest 29](https://scnujackychen.github.io/2021/12/12/ACWing-weekly-contest-29/)
 - 2021-12-06 [LC weekly contest 270](https://scnujackychen.github.io/2021/12/06/LC-weekly-contest-270/)
 - 2021-12-05 [ACWing weekly contest 28](https://scnujackychen.github.io/2021/12/05/ACWing-weekly-contest-28/)
-- 2021-11-28 [LC biweekly contest 66](https://scnujackychen.github.io/2021/11/28/LC-biweekly-contest-66/)
 
 [>>> More blog posts](https://jackyc.cn/)
 
